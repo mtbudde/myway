@@ -1,2 +1,2 @@
 # myway
-Homemade Segway project
+Homemade Segway Project
